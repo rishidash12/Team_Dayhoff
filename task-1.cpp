@@ -4,8 +4,8 @@ void main()
 {
 clrscr();
 cout<<"Rishikesh Dash";
-cout<<"rishikeshdash50@gmail.com";
-cout<<"@Rishikesh";
-cout<<"Drug development";
+cout<<"\nrishikeshdash50@gmail.com";
+cout<<"\n@Rishikesh";
+cout<<"\nDrug development";
 getch();
 }
