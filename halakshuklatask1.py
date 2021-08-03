@@ -1,0 +1,5 @@
+name = ("Halak Shukla")
+email = ( "halakshukla0101@gmail.com" )
+slackUsername = ( "@halak" )
+biostack = ( "Genomics, transcriptomics, data science, drug development, software development, epigenomics, medicinal chemistry and cheminformatics, Vaccine informatics, public health and genomic epidemiology  ")
+print ( name, email, slackUsername, biostack, sep = "\n" )
