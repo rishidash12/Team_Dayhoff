@@ -27,11 +27,8 @@ HD <- function(str1, str2){
    }
 
 hamming <- HD(slack,twitter)
-  
-# sum(as.vector(twitter) != as.vector(slack))
 
 
-print(paste(list(name, email, slack, biostack,
- twitter, hamming)))
+cat(name, email, slack, biostack, twitter, hamming, sep = ",")
    
    
