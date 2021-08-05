@@ -4,7 +4,7 @@ name <- "Ojonugwa"
 email <- "otabu01@gmail.com"
 slack <- "@Ojay"
 biostack <- "public health and genomic epidermiology"
-twitter <- "@oj_nugwa_"
+twitter <- "@Ojai"
 
 
 HD <- function(str1, str2){
