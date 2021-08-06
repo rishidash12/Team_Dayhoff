@@ -2,13 +2,14 @@
 using namespace std;
 int main()
 {
-  char slack_handle[10]="@Rishikesh";
-  char twitter_handle[10]="@Rishidash";
+  char slack_handle[20]="@Rishikesh";
+  char twitter_handle[20]="@Rishidash";
   int i,hamming_dist=0;
 cout<<"\nRishikesh Dash ";
 cout<<"rishikeshdash50@gmail.com ";
 cout<<"@Rishikesh ";
 cout<<"Drug devlopment ";
+cout<<"@Rishidash ";
 for(i=0;i<=9;i++)
 {
   if(slack_handle[i]!=twitter_handle[i])
