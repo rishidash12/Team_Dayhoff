@@ -100,7 +100,7 @@ Tusar Mondal:
 Post graduate student,
 Bioinformatics,
 India,
-Contact details:
+Contact details:tusarmondal9732@gmail.com.
 Contributor of: Perl script.
 
 # Buckle up your seat belts! The Internship is going to start! 👩‍💻
