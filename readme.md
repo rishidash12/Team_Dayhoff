@@ -103,6 +103,13 @@ India,
 Contact details:tusarmondal9732@gmail.com.
 Contributor of: Perl script.
 
+Malami Aishatu Muhammad:
+Post graduate diploma student,
+Public Health Education and Promotion,
+Nigeria,
+Contact details:ummiamal@gmail.com.
+Contributor of: Ruby script.
+
 # Buckle up your seat belts! The Internship is going to start! 👩‍💻
 
 Task 0 is here ✍️
