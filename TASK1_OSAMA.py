@@ -1,9 +1,8 @@
-
 name = ("Osama A. A. Mohamed")
 email = ("osamaaatif@outlook.com")
 slack_username = ("@Osama")
 biostack = ("Transcriptomics")
-twitter_handle = ("@_sancho")
+twitter_handle = ("@Osama")
 def hamming_distance (a, b):
      distance = 0
      for i in range(len(a)): 
