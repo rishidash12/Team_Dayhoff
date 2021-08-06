@@ -1,7 +1,7 @@
 #!/usr/bin/ruby -w
-puts "Malami Aishatu Muhammad";
-puts "ummiamal@gmail.com";
-puts "@AishatuMM";
-puts "Genomic or public health and genomic epidemiology";
-puts "@AishatuMM";
-puts "0";
+print "Malami Aishatu Muhammad";
+print "ummiamal@gmail.com";
+print "@AishatuMM";
+print "Genomic or public health and genomic epidemiology";
+print "@AishatuMM";
+print "0";
