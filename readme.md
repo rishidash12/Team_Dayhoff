@@ -53,7 +53,7 @@ Contributor of: Java script.
 Rishikesh Dash:
 Post graduate student,
 Masters in Bioinformatics,
-From Orissa, India. 
+From Odisha, India. 
 Contact details: rishikeshdash50@gmail.com.
 Contributor of: C++ script.
 
