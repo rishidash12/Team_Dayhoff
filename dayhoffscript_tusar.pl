@@ -1,8 +1,9 @@
 
 $Name= "Tusar Mondal";
 $Email= "tusarmondal9732@gmail.com";
-$Twitter= "Tusar";
-$Course= "M.Sc Bioinformatics";
+$Slack= "@Tusar";
 $Biostacks= "Data science";
-print("$Name\n","$Email\n","$Twitter\n","$Course\n","$Biostacks\n");
+$Twitter= "@Tusar";
+$Hammingdis= "0";
+print("$Name\n","$Email\n","$Slack\n","$Biostacks\n","$Twitter\n","$Hammingdis\n");
 exit
