@@ -12,7 +12,7 @@ First things first, Let me introduce you to our amazing team. 🎉
 # Who are we?
 
 Hi! We are 'Team Dayhoff', a group of enthusiastic and curious homo sapiens. 👀
-Our motto is to collaborate, learn and grow and our formula for success is simple, which is 'Teamwork = Dreamwork'. 
+Our motto is to collaborate, learn and grow. Our formula for success is simple: 'Teamwork = Dreamwork'. 
 
 # Why are we here?
 
@@ -65,6 +65,7 @@ Contributor of: C script.
 
 Abubakar Ojonugwa:
 Postgraduate student,
+Public Health Biotechnology, 
 From Nigeria,
 Contact details: Otabu01@gmail.com.
 Contributor of: R script.
