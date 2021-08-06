@@ -157,7 +157,7 @@ Step 17: Stop.
 
 # Internship diaries 📸 
 
-https://github.com/rishidash12/Team_Dayhoff/issues/1#issue-962987310
+# https://github.com/rishidash12/Team_Dayhoff/issues/1#issue-962987310
 
 
 # Thank you for your patience and time!🎉
