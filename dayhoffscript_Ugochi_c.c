@@ -22,7 +22,7 @@ int main()  {
     char str2[] = "@udufav";
  
     // function call
-     printf("Udunwanua Favour Ugochi, udufavour@gmail.com, @Ugochi, Medicinal Chemistry,  @udufav, %d", hammingDist(str1, str2));
+     printf("\nUdunwanua Favour Ugochi, udufavour@gmail.com, @Ugochi, Medicinal Chemistry,  @udufav, %d", hammingDist(str1, str2));
     
  
     return 0;
