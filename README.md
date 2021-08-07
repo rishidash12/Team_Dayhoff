@@ -159,6 +159,7 @@ Step 17: Stop.
 
 https://github.com/rishidash12/Team_Dayhoff/issues/1#issue-962987310
 
+
 # Resources
 
 Dependencies for execution:
@@ -189,34 +190,44 @@ Java (version 11.0.11).
 Commands Used for Installation in Ubuntu Console:
 
 For R: 
+
 sudo apt-get install r-base
 
 For Python3: 
+
 sudo apt update,
+
 Install Python 3
 
 For Ruby: 
+
 sudo apt install ruby
 
 For Java: 
+
 sudo apt install default-jdk
 
 For C++:
+
 sudo apt-get install g++ to install g++
 
 For ratfor:
+
 sudo apt-get install ratfor
 
 For Perl:
+
 sudo install perl
 
 
 Communication platforms:
+
 Slack,
 Zoom,
 Google Meet.
 
 Team Collage:
+
 Canva
 
 
