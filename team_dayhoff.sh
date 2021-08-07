@@ -1,3 +1,4 @@
+#Team_Dayhoff Bash Script
 rm team_dayhoff.csv
 Rscript  dayhoffscript_priyanka_r.R >> 'team_dayhoff.csv'
 python3 dayhoffscript_Halakpy.py >> 'team_dayhoff.csv'
