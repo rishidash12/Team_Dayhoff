@@ -8,7 +8,7 @@ int main()
 cout<<"\nRishikesh Dash ";
 cout<<"rishikeshdash50@gmail.com ";
 cout<<"@Rishikesh ";
-cout<<"Drug devlopment ";
+cout<<"Drug development ";
 cout<<"@Rishidash ";
 for(i=0;i<=9;i++)
 {
