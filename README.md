@@ -187,7 +187,7 @@ Perl (version 5.30.0),
 Java (version 11.0.11).
 
 
-Commands Used for Installation in Ubuntu Console:
+# Commands Used for Installation in Ubuntu Console:
 
 For R: 
 
@@ -220,13 +220,13 @@ For Perl:
 sudo install perl
 
 
-Communication platforms:
+# Communication platforms:
 
 Slack,
 Zoom,
 Google Meet.
 
-Team Collage:
+# Team Collage:
 
 Canva
 
