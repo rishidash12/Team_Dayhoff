@@ -182,5 +182,17 @@ Google Meet.
 Team Collage:
 Canva
 
+# How to run our bash script?
+
+Step 1: Open Ubuntu Software Console in Windows.
+
+Step 2: Create a newly created directory and Change directory to the newly created directory.
+
+Step 3: Git clone https://github.com/rishidash12/Team_Dayhoff.git
+
+Step 4: Change directory to cloned repository.
+
+Step 5: Create Bash Script and run the bash script.
+
 
 # Thank you for your patience and time!🎉
