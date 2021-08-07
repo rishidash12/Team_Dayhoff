@@ -1,8 +1,8 @@
-print("Priyanka Mishra")
-print("priyankam9998@gmail.com")
-print("@Priyanka")
-print("drug devlopment")
-print("@priyankam9998")
+name <- "Priyanka Mishra"
+email <- "priyankam9998@gmail.com"
+slackusername <- "@Priyanka"
+biostack <- "drug devlopment"
+twitterhandle <- "@priyankam9998"
 hammingDistance <- function(str1, str2){
   
   str1 <- as.character(str1)
@@ -22,5 +22,6 @@ hammingDistance <- function(str1, str2){
 
 str1 <- "@Priyanka" 
 str2 <- "@priyankam9998"
-ans <- hammingDistance(str1,str2);
-print(ans)
+hammingdistance <- hammingDistance(str1,str2);
+print(hammingdistance)
+print(paste(name,email,slackusername,biostack,twitterhandle,hammingdistance,sep=","))
