@@ -162,21 +162,22 @@ https://github.com/rishidash12/Team_Dayhoff/issues/1#issue-962987310
 # Resources
 
 Dependencies for execution:
-Git
-GitHub
-Git Bash
-Ubuntu Console
-Python3 (version 3.8.5)
-C++ (version 9.3.0)
-R (version 3.8.5) 
-Ruby (version 2.7.0p0)
-Perl (version 5.30.0)
-Java (version 11.0.11)
+
+Git,
+GitHub,
+Git Bash,
+Ubuntu Console,
+Python3 (version 3.8.5),
+C++ (version 9.3.0),
+R (version 3.8.5),
+Ruby (version 2.7.0p0),
+Perl (version 5.30.0),
+Java (version 11.0.11).
 
 Communication platforms:
-Slack
-Zoom
-Google Meet
+Slack,
+Zoom,
+Google Meet.
 
 Team Collage:
 Canva
