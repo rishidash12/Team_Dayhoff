@@ -1,4 +1,7 @@
 #Team_Dayhoff Bash Script
+#!/bin/bash
+git clone https://github.com/rishidash12/Team_Dayhoff.git
+cd Team_Dayhoff
 rm team_dayhoff.csv
 Rscript  dayhoffscript_priyanka_r.R >> 'team_dayhoff.csv'
 python3 dayhoffscript_Halakpy.py >> 'team_dayhoff.csv'
