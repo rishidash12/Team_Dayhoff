@@ -23,5 +23,4 @@ hammingDistance <- function(str1, str2){
 str1 <- "@Priyanka" 
 str2 <- "@priyankam9998"
 hammingdistance <- hammingDistance(str1,str2);
-print(hammingdistance)
 print(paste(name,email,slackusername,biostack,twitterhandle,hammingdistance,sep=","))
