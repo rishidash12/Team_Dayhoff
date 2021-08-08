@@ -203,6 +203,10 @@ For Ruby:
 
 sudo apt install ruby
 
+For git:
+
+sudo apt install git
+
 For Java: 
 
 sudo apt install default-jdk
